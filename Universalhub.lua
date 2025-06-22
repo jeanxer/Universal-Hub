@@ -7,7 +7,7 @@ _G.Config = {
 local OrionLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/weakhoes/Roblox-UI-Libs/refs/heads/main/Orion%20Lib/Orion%20Lib%20Source.lua"))()
 
 local Window = OrionLib:MakeWindow({
-    Name = "🔐 Key System",
+    Name = "💀Sript Infernos💀",
     HidePremium = false,
     SaveConfig = true,
     ConfigFolder = "KeySystemConfig",
