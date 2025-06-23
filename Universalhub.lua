@@ -1,6 +1,6 @@
 -- 🔧 Configuración personalizada
 _G.Config = {
-    GroupLink = "https://roblox.ls/communities/7995131854/"  -- Cambia este texto por el que tú quieras
+    GroupLink = "https://roblox.ls/communities/2846233021/"  -- Cambia este texto por el que tú quieras
 }
 
 -- 🔽 Script principal
